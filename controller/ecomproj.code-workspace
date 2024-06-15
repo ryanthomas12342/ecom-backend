@@ -1,0 +1,15 @@
+{
+  "folders": [
+	{
+		"name": "ecomproj",
+		"path": ".."
+	},
+	{
+		"name": "views",
+		"path": "../../../course/formsimg/views"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "ecomproj"
+  }
+}
